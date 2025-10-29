@@ -1,1 +1,6 @@
 I don't even know why I need to do this
+Summary:
+This project demonstrates Git workflows including merging and rebasing.
+
+Insights:
+Merging helps integrate different lines of work safely.
